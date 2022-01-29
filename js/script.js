@@ -38,6 +38,18 @@ for(let i = 0; i <paragraphs.length; i++) {
     paragraphs[i].style.color = "red";
 }
 
+// Question 6
+// My answer to question 6
+
+let resultsContainer = document.querySelector(".results");
+
+resultsContainer.innerHTML = "New Paragraph";
+resultsContainer.style.backgroundColor = "yellow";
+
+
+
+
+
 
 
 
